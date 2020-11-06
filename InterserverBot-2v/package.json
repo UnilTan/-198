@@ -1,0 +1,13 @@
+{
+  "name": "interserver-discord-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "12.2.0",
+    "enmap": "^3.1.4",
+    "enmap-mongo": "^2.0.2"
+  },
+  "author": "@oddyamill",
+  "license": "ISC"
+}
